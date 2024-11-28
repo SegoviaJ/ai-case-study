@@ -64,7 +64,7 @@ Robust Intelligence provided an **end-to-end AI model validation and protection 
 
 Robust Intelligence operates in the **AI security and reliability** space. The company focuses on improving the dependability and security of AI models against adversarial threats and data anomalies, crucial in industries where data integrity and security are of the utmost importance. While major technology vendors like IBM, Microsoft, and Google are heavily investing in AI, their focus has primarily been on "AI for security," using AI to enhance their security products. In contrast, Robust Intelligence and its competitors are centered on "security for AI," providing solutions to protect AI models themselves (Crawford, 2024).
 
-## Trends and Innovations in AI Security:
+ **Trends and Innovations in AI Security:**
 1. **Advancements in Adversarial Defenses:**
    Improved techniques like adversarial training to protect AI models from adversarial attacks. (Akhtar et al., 2021)
 
@@ -138,7 +138,8 @@ Robust Intelligence faced competition from several startups and established comp
 
 **Performance Relative to Competitors:**
 
-Robust Intelligence's comprehensive, proactive approach to enhancing AI security positioned them favorably against competitors. Their focus on **pre-deployment validation** and continuous protection gives them an edge, especially for companies seeking to secure their AI-driven systems.
+Robust Intelligence's comprehensive, proactive approach to enhancing AI security positioned them favorably against competitors. Their focus on **pre-deployment validation** and continuous protection gives them an edge, especially for companies seeking to secure their AI-driven systems. 
+
 
 ## Recommendations
 
@@ -199,88 +200,3 @@ Prieto, J.-T. (2023). *Federated learning trends: From academic insights to indu
 
 Nguyen, A. (2023). **Understanding Differential Privacy**. *Towards Data Science*. Retrieved from [https://towardsdatascience.com/understanding-differential-privacy-85ce191e198a](https://towardsdatascience.com/understanding-differential-privacy-85ce191e198a)
 
-Ali, S., Abuhmed, T., El-Sappagh, S., Muhammad, K., Alonso-Moral, J. M., Confalonieri, R., Guidotti, R., Del Ser, J., Díaz-Rodríguez, N., & Herrera, F. (2023). **Explainable Artificial Intelligence (XAI): What we know and what is left to attain Trustworthy Artificial Intelligence**. *Information Fusion, 99*, 101805. [https://www.sciencedirect.com/science/article/pii/S1566253523001148](https://www.sciencedirect.com/science/article/pii/S1566253523001148)
-
-Luccioni, S., Jernite, Y., Thomas, D., Witko, E., Ozoani, E., Fukano, J., Srivastav, V., Tousignant, B., & Mitchell, M. (2024, February 26). **AI Watermarking 101: Tools and Techniques**. *Hugging Face Blog*. Retrieved from [https://huggingface.co/blog/watermarking](https://huggingface.co/blog/watermarking)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Summary of Metrics in Robust Intelligence Model Tests
-
-The Robust Intelligence documentation provides a comprehensive suite of tests to evaluate various aspects of model performance and data integrity. Below is a summary of key test categories and their purposes:
-
-## Test Categories for Robust Intelligence Model Tests
-
-
----
-
-**Reference:**
-
-
-
-
-
-
-
-
-
-## Comparison of Robust Intelligence vs. Competitors (HiddenLayer, Aporia, and Protect AI)
-
-### 1. Robust Intelligence
-- **Comprehensive AI Validation:** 
-  Robust Intelligence offers over 150 security and safety tests, including checks for data poisoning, adversarial robustness, and bias detection (Robust Intelligence, n.d.-a).
-- **Real-Time Protection:** 
-  Utilizes AI Firewall® to safeguard applications from attacks such as prompt injection and model theft, with automatic guardrail configurations (Robust Intelligence, n.d.-b).
-- **Standards Compliance:** 
-  Aligns with AI security standards like the OWASP Top 10 for LLM Applications, ensuring adherence to industry best practices (Robust Intelligence, n.d.-a).
-
-### 2. HiddenLayer
-- **Model Interaction Monitoring:** 
-  Analyzes data inputs and model outputs to detect malicious patterns without requiring access to training data, providing non-invasive protection (Heater, 2022).
-- **Focus on Adversarial Attacks:** 
-  Specializes in identifying and mitigating adversarial machine learning attacks, emphasizing research-driven solutions (Constantin, 2022).
-
-### 3. Aporia
-- **Bias and Fairness Monitoring:** 
-  Provides tools to detect and mitigate biases in AI models, promoting fairness and transparency in decision-making processes (Aporia, n.d.).
-- **Model Performance Tracking:** 
-  Offers monitoring capabilities to track model performance metrics, ensuring consistent and reliable AI operations (Aporia, n.d.).
-
-### 4. Protect AI
-- **AI Supply Chain Security:** 
-  Focuses on securing the AI development pipeline, addressing vulnerabilities in data and model components to prevent supply chain attacks.
-- **Regulatory Compliance Support:** 
-  Assists organizations in meeting AI security regulations, providing tools to ensure adherence to legal and ethical standards.
-
-### Summary
-While all platforms aim to enhance AI security, **Robust Intelligence** distinguishes itself with a holistic approach encompassing extensive validation tests, real-time protection mechanisms, and strict compliance with established AI security standards.
-
----
-
-**References:**
-
-- **Aporia**. (n.d.). *Fairness Metrics in Machine Learning*. Retrieved from [https://www.aporia.com/learn/fairness-metrics-in-machine-learning/](https://www.aporia.com/learn/fairness-metrics-in-machine-learning/)
-
-- **Constantin, L.** (2022). *HiddenLayer Emerges from Stealth with $6 Million to Protect AI Learning Models*. SecurityWeek. Retrieved from [https://www.securityweek.com/hiddenlayer-emerges-stealth-6-million-protect-ai-learning-models/](https://www.securityweek.com/hiddenlayer-emerges-stealth-6-million-protect-ai-learning-models/)
-
-- **Heater, B.** (2022). *HiddenLayer Emerges from Stealth to Protect AI Models from Attacks*. TechCrunch. Retrieved from [https://techcrunch.com/2022/07/19/hiddenlayer-emerges-from-stealth-to-protect-ai-models-from-attacks/](https://techcrunch.com/2022/07/19/hiddenlayer-emerges-from-stealth-to-protect-ai-models-from-attacks/)
-
-- **Robust Intelligence**. (n.d.-a). *AI Validation Platform*. Retrieved from [https://www.robustintelligence.com/platform/ai-validation](https://www.robustintelligence.com/platform/ai-validation)
-
-- **Robust Intelligence**. (n.d.-b). *AI Firewall Guardrails*. Retrieved from [https://www.robustintelligence.com/platform/ai-firewall-guardrails](https://www.robustintelligence.com/platform/ai-firewall-guardrails)
