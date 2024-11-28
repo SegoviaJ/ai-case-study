@@ -66,7 +66,7 @@ Robust Intelligence operates in the **AI security and reliability** space. The c
 
  **Trends and Innovations in AI Security:**
 1. **Advancements in Adversarial Defenses:**
-   Improved techniques like adversarial training to protect AI models from adversarial attacks. (Akhtar et al., 2021)
+   Improved techniques like adversarial training to protect AI models from attacks. (Akhtar et al., 2021)
 
 2. **Federated Learning:**
    Implementation of decentralized learning structure to enhance data privacy and security during AI model training. (Prieto, 2023)
@@ -75,7 +75,7 @@ Robust Intelligence operates in the **AI security and reliability** space. The c
    Protects sensitive personal data by differentiating it from general information in AI systems. (Nguyen, 2023)
 
 4. **Explainable AI (XAI):**
-   Work to create human-interpretable models with meaningful output that can be understood and trusted. (Ali et al., 2023)
+   Works to create human-interpretable models with meaningful output that can be understood and trusted. (Ali et al., 2023)
 
 5. **AI Model Watermarking:**
    Maintaining content authenticity and reliability by embedding watermarks into AI content. (Luccioni et al, 2024)
