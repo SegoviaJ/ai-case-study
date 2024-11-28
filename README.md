@@ -198,5 +198,5 @@ Akhtar, N., Mian, A., Kardan, N., & Shah, M. (2021). *Advances in Adversarial At
 
 Prieto, J.-T. (2023). *Federated learning trends: From academic insights to industry applications*. *Apheris Blog*. Retrieved from [https://www.apheris.com/resources/blog/federated-learning-from-academic-insights-to-industry-applications](https://www.apheris.com/resources/blog/federated-learning-from-academic-insights-to-industry-applications)
 
-Nguyen, A. (2023). **Understanding Differential Privacy**. *Towards Data Science*. Retrieved from [https://towardsdatascience.com/understanding-differential-privacy-85ce191e198a](https://towardsdatascience.com/understanding-differential-privacy-85ce191e198a)
+Nguyen, A. (2023). *Understanding Differential Privacy*. *Towards Data Science*. Retrieved from [https://towardsdatascience.com/understanding-differential-privacy-85ce191e198a](https://towardsdatascience.com/understanding-differential-privacy-85ce191e198a)
 
