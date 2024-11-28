@@ -7,11 +7,11 @@
 **Incorporation Date:** 2019
 
 **Founders:**
-
 - **Yaron Singer** – Co-founder and CEO, Professor of Computer Science at Harvard University.
 - **Kojin Oshiba** – Co-founder and Chief Scientist.
 
 **Origin of the Idea:**
+
 > **"Security leaders need purpose-built solutions they can trust to keep up with the new paradigm of AI risk."**
 > — Yaron Singer, Co-founder and CEO of Robust Intelligence (Gills, 2024)
 
@@ -19,9 +19,11 @@ Robust Intelligence was co-founded by Professor Yaron Singer and Kojin Oshiba in
 
 Since its inception, the company has attracted exceptional talent working at the forefront of AI and cybersecurity from leading tech companies such as Amazon, Google, Meta, Microsoft, and more. This diverse and experienced team has created the industry's first end-to-end platform for AI application security, trusted by security and data science leaders worldwide (Robust Intelligence, n.d.-a).
 
+
 **Acquisition by Cisco:**
 
 On **September 24, 2024**, Cisco Systems announced the completion of its acquisition of Robust Intelligence for an estimated **$350 million**. This acquisition aims to enhance Cisco's Security Cloud capabilities by integrating Robust Intelligence's AI model validation and protection solutions into Cisco's networking and security products. With the integration, Cisco hopes to have "unparalleled visibility into all of a customer’s AI traffic" that will allow customers to secure their network, AI applications, and users while adhering to industry and regulatory standards like OWASP and MITRE ATLAS (Gills, 2024; Crawford, 2024).
+
 
 **Funding:**
 
@@ -33,6 +35,7 @@ Prior to the acquisition, Robust Intelligence had raised approximately **$44 mil
 
 AI models are susceptible to failures when exposed to adversarial inputs, data corruption, or shifts in data distribution. These vulnerabilities can lead to incorrect predictions and pose significant risks in critical applications. Robust Intelligence aimed to proactively identify and mitigate these issues, ensuring that AI models are secure and reliable before deployment.
 
+
 **Intended Customers and Market Size:**
 
 Robust Intelligence targeted enterprises deploying AI models in critical and sensitive applications, including:
@@ -43,6 +46,7 @@ Robust Intelligence targeted enterprises deploying AI models in critical and sen
 - **Government & Defense:** Numerous use cases from education and healthcare to military and defense. (Robust Intelligence, n.d.-e)
 
 According to Fortune Business Insights (2024), the global AI market size was valued at **$515.31 billion in 2023** and is projected to reach **$2740.46 billion by 2032**, growing at a CAGR of 20.4%. The global AI in cybersecurity market is also expanding, expected to reach **$60.60 billion by 2028** (MarketsandMarkets, 2024), indicating a substantial market for AI security solutions in networking applications.
+
 
 **Unique Solution Offered:**
 
@@ -64,7 +68,9 @@ Robust Intelligence provided an **end-to-end AI model validation and protection 
 
 Robust Intelligence operates in the **AI security and reliability** space. The company focuses on improving the dependability and security of AI models against adversarial threats and data anomalies, crucial in industries where data integrity and security are of the utmost importance. While major technology vendors like IBM, Microsoft, and Google are heavily investing in AI, their focus has primarily been on "AI for security," using AI to enhance their security products. In contrast, Robust Intelligence and its competitors are centered on "security for AI," providing solutions to protect AI models themselves (Crawford, 2024).
 
+
  **Trends and Innovations in AI Security:**
+
 1. **Advancements in Adversarial Defenses:**
    Improved techniques like adversarial training to protect AI models from attacks. (Akhtar et al., 2021)
 
@@ -99,6 +105,7 @@ Robust Intelligence faced competition from several startups and established comp
 - **Client Success:** Assisted enterprises in enhancing the security of their AI models, leading to reduced failure rates.
 - **Industry Recognition:** Recognized for innovative solutions in AI security, contributing to Cisco's decision to acquire the company.
 - **Strategic Acquisition:** The acquisition by Cisco is set to strengthen Cisco's security portfolio, embedding Robust Intelligence's technology into Cisco's products to enhance AI trustworthiness in enterprise contexts (Gills, 2024).
+
 
 **AI Security Core Metrics**
 
@@ -155,6 +162,7 @@ Robust Intelligence's comprehensive, proactive approach to enhancing AI security
    - **Description:** Continue offering specialized AI security solutions tailored for industries like finance, healthcare, and manufacturing.
    - **Benefits:** Addresses the unique challenges of securing AI models in various sectors, expanding market reach.
 
+
 **Technologies to Utilize:**
 
 - **Industry-specific Adversarial Testing:** Develop testing processes unique to different industries.
@@ -162,13 +170,15 @@ Robust Intelligence's comprehensive, proactive approach to enhancing AI security
 - **Standard Networking Protocols:** Ensure compatibility across vendors via NETCONF, SNMP, etc.
 - **Edge Computing Security:** Secure AI models deployed on edge devices and IoT networks.
 
+
 **Why These Technologies Are Appropriate:**
 
 They align with Cisco's focus on networking and enterprise solutions, improving the security of AI models within their product ecosystem. Utilizing these technologies can help ensure AI models across various applications are secure, reliable, and protected against threats.
 
+
 ---
 
-**References**
+### **References**
 
 Gills, T. (2024, September 24). *Fortifying the Future of Security for AI: Cisco Announces Intent to Acquire Robust Intelligence*. Retrieved from [https://blogs.cisco.com/security/fortifying-the-future-of-security-for-ai](https://blogs.cisco.com/security/fortifying-the-future-of-security-for-ai)
 
